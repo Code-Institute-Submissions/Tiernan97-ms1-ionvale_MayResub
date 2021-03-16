@@ -33,22 +33,17 @@
     </li> 
   </ul>
 </nav>
-<!-- Home Section-->
+<!-- Home Section--> 
 <section>
     <div data-spy="scroll" data-target="#navbar-example2" data-offset="0">
         <div id="home">
-            <div>
-                <div>
-                    <img src="assets/images/home/landing.jpg" class="img-fluid" alt="Designer at work">
-                </div>
-                <div>
-                    <h2>Championing Designers</h2>
+                <div class="home-image">
+                    <h1>Championing Designers</h1>
                     <p>Our bespoke vintage designed clothing helps sustainable and ethically driven consumers who want to support upcoming underprivileged designers in the third world regions by directly purchasing from them on our global e-commerce platform.</p>
-                </div>
-            </div>  
-        </div>
+                </div>  
+        </div> 
     </div>
-</section>
+</section> 
 
 <!-- How it works section-->
 <section>
@@ -89,9 +84,24 @@
 
 <!-- Sign-up-->
 <div data-spy="scroll" data-target="#navbar-example2" data-offset="0">
-  <h4 id="Sign-up">Sign-up</h4>
-  <p>...</p>
+  <section id="Sign-up">
+      <form>
+            <div class="form-group">
+            <label for="exampleInputEmail1">Email address</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+            </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1">
+  </div>
+  <div class="form-group form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+    <label class="form-check-label" for="exampleCheck1">Send me updates</label>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+    </section>
 </div>
-
 </body>
 </html>

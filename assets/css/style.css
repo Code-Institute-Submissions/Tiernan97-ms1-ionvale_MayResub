@@ -10,6 +10,22 @@
     color: black;
 }
 
-img {
-    border-radius: 50%;
+.home-image {
+    background-image: url("../images/home/landing.jpg");
+    height: 90vh;
+    width: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-image h2 {
+    padding-top: 40vh;
+}
+
+
+/* Sign-up form CSS*/
+form {
+  border: 4px solid #f1f1f1;
+  
 }
