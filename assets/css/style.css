@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.paragraph1 {
+    font-size: 21px;
+    font-weight: lighter;
+    color: black;
+}
+
+img {
+    border-radius: 50%;
+}
