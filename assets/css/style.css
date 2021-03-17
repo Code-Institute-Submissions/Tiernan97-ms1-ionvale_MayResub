@@ -1,3 +1,35 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.home-container {
+    height: 100vh;
+}
+/*
+    background: url("../images/home/landing.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+*/
+
+.how-it-works-container {
+
+}
+
+.team-container {
+
+}
+
+.sign-up-container {
+
+}
+
 *{
     padding: 0;
     margin: 0;
@@ -9,20 +41,6 @@
     font-weight: lighter;
     color: black;
 }
-
-.home-image {
-    background-image: url("../images/home/landing.jpg");
-    height: 90vh;
-    width: auto;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-}
-
-.home-image h2 {
-    padding-top: 40vh;
-}
-
 
 /* Sign-up form CSS*/
 form {
