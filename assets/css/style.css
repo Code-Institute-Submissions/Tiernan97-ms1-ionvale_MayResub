@@ -4,6 +4,10 @@ body {
 
 .home-container {
     height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 /*
     background: url("../images/home/landing.jpg") no-repeat center center fixed;
