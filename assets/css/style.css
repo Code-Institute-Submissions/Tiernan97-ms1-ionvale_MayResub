@@ -32,6 +32,17 @@ body {
 
 }
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.wrapper {
+    background-color: #f6f2e8a3;
+}
+
 /* How it Works CSS*/
 .how-it-works-container {
  
@@ -47,9 +58,14 @@ body {
     margin-top: 0;
 }
 
+.jumbotron {
+    padding: 0;
+}
 
-
-
+/*Team*/
+#team img {
+    border-radius: 50%;
+}
 
 
 .team-container {
