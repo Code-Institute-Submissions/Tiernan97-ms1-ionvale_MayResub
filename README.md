@@ -27,3 +27,4 @@ Welcome to the foundation of what is to be Ionvale's website and e-commerce plat
     + **Typography**  
 
       + When decising on the typography I wanted for my website, I drew learnings from my advertising and marketing modules from my time in University College Cork. Here I researched the effectiveness of different font types in delivering a message to a consumer/user. I wanted to use a font that was similiar to 'Helvetica' but I also felt this lacked some personality. I decided to settle on **'Roboto'** which is very similiar to 'Helvetica'. **'Sans-serif'** was set as my backup font.
+ 
