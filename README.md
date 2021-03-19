@@ -1,43 +1,29 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
+# **Ionvale - Repurpoused Designer Clothing**
+
+# **Website Overview**
 Welcome to the foundation of what is to be Ionvale's website and e-commerce platform. Ionvale is a startup clothing brand I am building. Although the scope of this project is to show competiencies in HTML, CSS and Bootstrap, this website will later be built out to have e-commerce capabilites as my development skills progress with the course. In the context of this assignment this webiste aims to represent the initial stage of the business. I hope for the user to get a small sense of the brand and have them subscribe so that we can notify them when the Ionvale brand is trading.
 
-## Gitpod Reminders
+# **User Experience (UX)**
++ ## **User Journey**
+    + **Instagram Re-directed visitors**
+        1. I want to gain a basic understanding of what the brand Ionvale does.
+        2. I want  to meet the team, learning basic information about the founders, their mission and their qualifications.
+        3. I want the user to recognise the handmade nature of Ionvales products from the home landing image.
+        4. I want to easily follow Ionvales other social media platforms
+        5. I want to sign up to more news from Ionvale on their launch.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+           In the context of the development stage of the business, this user persona is what the website is built for. Our social media content creation begins in the coming weeks. From this we hope to drive traffic to this website. The ultimate goal is to give them a further insight into what we do and to have them sign up to be notified of our first stock launch.
++ ## **Design**
+    + **Color Scheme**
+      + When deciding on the colour scheme of website I used my gained knowlege of both marketing and web development to draw the conclusion that a basic colour scheme was best suited to the website. 
+      1. **Nav Bar & Footer**: For my nav bar and footer I used a basic light grey background. This was to avoid any major color or theme clashes throughout the website. The light grey added a level of depth without affecting the visibility of my nav bar options.
 
-`python3 -m http.server`
+      2. **Main Body**: For the main body of the website I used a white background to ensure that the content being delivered was as legible as possible. Similiar to the grey navbar, white allowed for less theme clashes and helped draw attention to my main landing image. 
 
-A blue button should appear to click: *Make Public*,
+      3. **Social Icons**: For the social media Icons I decided on a blue color. My rational for this is that my submit button on my sign-up form was also blue. My hope was that users would recognise another opportunity to click on an item for more interaction with Ionvale's brand. Further to this Facebooks brand color is blue and market research shows users think blue when they think of social media platforms.
 
-Another blue button should appear to click: *Open Browser*.
+    + **Typography**  
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+      + 
