@@ -68,28 +68,7 @@ body {
 }
 
 
-.team-container {
 
-}
-
-.sign-up-container {
-
-}
-
-
-/*Block Divider*/
-/*
-.block-divider {
-    width: 75px;
-    height: 5px;
-    border: 0;
-    background-color: #444;
-}
-
-.block-divider--short {
-    width: 35px;
-}
-*/ 
 *{
     padding: 0;
     margin: 0;
@@ -108,9 +87,8 @@ form {
     padding: 2rem;
     border-radius: 8px;
 }
-/*
+
 .fab {
     padding: 5px;
     font-size: 25px;
 } 
-*/
