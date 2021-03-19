@@ -1,8 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome Tiernan97,
-
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+Welcome to the foundation of what is to be Ionvale's website and e-commerce platform. Ionvale is a startup clothing brand I am building. Although the scope of this project is to show competiencies in HTML, CSS and Bootstrap, this website will later be built out to have e-commerce capabilites as my development skills progress with the course. In the context of this assignment this webiste aims to represent the initial stage of the business. I hope for the user to get a small sense of the brand and have them subscribe so that we can notify them when the Ionvale brand is trading.
 
 ## Gitpod Reminders
 
