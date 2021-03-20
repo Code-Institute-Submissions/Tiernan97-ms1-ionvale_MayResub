@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+
 
 # **Ionvale - Repurpoused Designer Clothing**
 
@@ -28,3 +28,64 @@ Welcome to the foundation of what is to be Ionvale's website and e-commerce plat
 
       + When decising on the typography I wanted for my website, I drew learnings from my advertising and marketing modules from my time in University College Cork. Here I researched the effectiveness of different font types in delivering a message to a consumer/user. I wanted to use a font that was similiar to 'Helvetica' but I also felt this lacked some personality. I decided to settle on **'Roboto'** which is very similiar to 'Helvetica'. **'Sans-serif'** was set as my backup font.
  
+    + **Imagery**
+    
+      + **Home Section Image**: Deciding on my home section image was quintessential to the user experience in my website. I wanted it to highlight to the user that the nature of our business was handmade clothing. It was important to me that the bespoke designer element of the business was the first scene set for the user. 
+      + **Meet the Team Section Images**: The images used in the 'Meet the Team' section of the website were all selected due to their common theme. It was important that they were relatively uniform and didn't distract too much from the other important content around them.
+
+    + **Mockups**
+
+      + To create my wireframes I purchased a premium subcription on [Moqups](https://moqups.com/). I initially started with sketches and then decided to design my Wireframes with UX in mind.
+
+      1.  [Mobile Version Mockup](/workspace/ms1-ionvale/assets/images/mockups/Mobile_App_Landing_Page_Wireframe.png)
+
+      2.  [Home Page Mockup](/workspace/ms1-ionvale/assets/images/mockups/Home_Page.png)
+
+      # **Features**
+      + Ionvale's website is responsive on all devices.
+      + This website uses external links which are embedded under clickable images.
+      + The website uses an email form so that users can sign up to be on our email subscription list
+      + The fixed nav bar which has spy scroll bootstrapped allows for the user to conveniently navigate their way through the one page scroller.
+
+      # **Technologies Used**
+      ## **Languages Used**
+
+      + [**HTML5**](https://en.wikipedia.org/wiki/HTML)
+      + [**CSS3**](https://en.wikipedia.org/wiki/CSS)
+
+
+      ## **Frameworks, Libraries & Programs Used**
+
+      1. [**Bootstrap 4.5.3:**](https://getbootstrap.com/)
+         + I used Bootstrap4 to help  with the responsiveness of my website. It's grid structures and pre-made layouts helped a lot with this website.
+
+      2. [**Google Fonts:**](https://fonts.google.com/)
+         + I used google fonts to emmbed my **'Roboto'** font throughout my website.
+
+      3. [**Font Awesome:**](https://fontawesome.com/)
+         + Font Awesome came in very useful when searching for icons that matched the aesthetic of the website and improved user experience.
+
+      4. [**jQuery:**](https://jquery.com/)
+         + jQuery came as part of the Bootstrap4 package. It added stylistic and functional elements to my website.
+
+      5. [**Git:**](https://git-scm.com/)
+         + This was the version control tool I used throughout my development of this project. It allowed me to version control so to go back to previous itterations of my code.
+
+      6. [**GitHub:**](https://github.com/)
+         + This was the repository where I pushed all of my stored code.
+
+      7. [**GitPod:**](https://gitpod.com/)
+         + This was the 
+
+      8. [**Canva:**](https://canva.com/)
+
+      9. [**Moqups**](https://moqups.com/)
+
+      10. [**Notepad++**](https://notepad-plus-plus.org/)
+
+
+
+
+
+
+
