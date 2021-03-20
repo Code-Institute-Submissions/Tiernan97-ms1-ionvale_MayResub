@@ -123,7 +123,7 @@ Welcome to the foundation of what is to be Ionvale's website and e-commerce plat
       + To ensure compatability across all devices I tested the webesite on Lenovo IdeaPad S540, iPhone 8 Plus, iPhone 11, iPhone 12, iPad Pro, iPad and Samsung S9.
 
       ## **Bugs**
-      + 
+      + An initial bug that was recognised was that when the website was being used on a lg to medium size screen, the Font awesome icons in the 'How it Works' section were not fitting and would shift the middle h2 downwards with the font awesome icon on top. I added further display properties to rectify this issue.
 
       # **Deployment**
       ## **How to use [**GitHub Pages**]((https://pages.github.com/)) to Deploy the website:**
