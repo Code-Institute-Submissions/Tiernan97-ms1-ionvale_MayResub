@@ -37,9 +37,9 @@ Welcome to the foundation of what is to be Ionvale's website and e-commerce plat
 
       + To create my wireframes I purchased a premium subcription on [Moqups](https://moqups.com/). I initially started with sketches and then decided to design my Wireframes with UX in mind.
 
-      1.  [Mobile Version Mockup](/workspace/ms1-ionvale/assets/images/mockups/Mobile_App_Landing_Page_Wireframe.png)
+      1.  [Mobile Version Mockup](assets/images/mockups/Home_Page.png)
 
-      2.  [Home Page Mockup](/workspace/ms1-ionvale/assets/images/mockups/Home_Page.png)
+      2.  [Home Page Mockup](assets/images/mockups/Home_Page.png)
 
       # **Features**
       + Ionvale's website is responsive on all devices.
