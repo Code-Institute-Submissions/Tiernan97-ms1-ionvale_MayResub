@@ -59,6 +59,11 @@ body {
     padding: 0;
 }
 
+.h1, h1 {
+    font-size: 2.5rem;
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
 /*Team*/
 #team img {
     border-radius: 50%;
