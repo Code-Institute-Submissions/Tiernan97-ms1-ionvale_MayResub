@@ -88,7 +88,8 @@ Find a link to the live website [**here**](https://tiernan97.github.io/ms1-ionva
       # **Testing**
 
       ## **Functionality Testing**
-      + All social media links were tested across all devices without any issues.
+      + All social media links were retested and the code was changed to open all social media links in a new tab.
+      + The collapsable nav bar was changed so that when each link was clicked the dropdown would disappear.
 
       ## **Validators**
       + [**HTML5 Validator**](https://validator.w3.org/nu/#textarea)
